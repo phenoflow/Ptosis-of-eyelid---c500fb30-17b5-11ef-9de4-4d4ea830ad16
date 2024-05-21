@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/ptosis-of-eyelid-specified---primary.py
+inputModule3:
+  class: File
+  path: python/ptosis-of-eyelid---primary.py
+inputModule4:
+  class: File
+  path: python/ptosis-of-eyelid-correction---primary.py
+inputModule5:
+  class: File
+  path: python/ptosis-of-eyelid-frontalis---primary.py
+inputModule6:
+  class: File
+  path: python/ptosis-of-eyelid-fascia---primary.py
+inputModule7:
+  class: File
+  path: python/ptosis---primary.py
+inputModule8:
+  class: File
+  path: python/ptosis-of-eyelid-rectus---primary.py
+inputModule9:
+  class: File
+  path: python/ptosis-of-eyelid-blepharoptosis---primary.py
+inputModule10:
+  class: File
+  path: python/ptosis-of-eyelid-aponeurosis---primary.py
+inputModule11:
+  class: File
+  path: python/ptosis-of-eyelid-levator---primary.py
+inputModule12:
+  class: File
+  path: python/ptosis-of-eyelid-horner's---primary.py
+inputModule13:
+  class: File
+  path: python/ptosis-of-eyelid-tarsomullerectomy---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
